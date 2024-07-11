@@ -7,6 +7,43 @@ body {
 
 } */
 
+.centr {
+    width: 400px;
+    height: 60px;
+    /* background: #6610f2; */
+    color:aquamarine;
+    
+}
+
+.zag {
+   
+    width: 400px;
+    height: 45px;        
+    /* background: #024cd4; */
+    background: #6610f2;
+    color:aquamarine;
+   
+} 
+
+.zag_1 {
+    width: 600px;
+    height: 45px;        
+    /* background: #024cd4; */
+    background: #6610f2;
+    color:aquamarine;
+   
+} 
+
+.card-t {
+    width: 300px;
+        background: linear-gradient(270deg, rgb(6, 6, 208) 0%, #3902c3);  
+        color:aquamarine;
+       
+}
+        
+    }
+
+
 .text {
     display: inline-block;
     background-color: rgb(93, 89, 89);
@@ -111,17 +148,9 @@ body {
         color:aquamarine;
     }
 
-    .card-t {
-        width: 300px;
-            background: linear-gradient(270deg, rgb(6, 6, 208) 0%, #3902c3);  
-            color:aquamarine;
-        }
+    
 
-     .zag {
-            
-            background: #6610f2;
-            color:aquamarine;
-     }   
+       
 
 footer{
     padding: 30px 0;
