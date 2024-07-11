@@ -35,7 +35,7 @@ body {
 } 
 
 .card-t {
-    width: 300px;
+/*     width: 300px; */
         background: linear-gradient(270deg, rgb(6, 6, 208) 0%, #3902c3);  
         color:aquamarine;
        
