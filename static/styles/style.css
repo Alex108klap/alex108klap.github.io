@@ -1,15 +1,12 @@
 
 .table {
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 100%;
     color:#f3f5f7;
   }
 
 .centr {
-    /* width: 400px;
-    height: 60px; */
-    /* background: #6610f2; */
     color:#f3f5f7;
     
 }
@@ -26,7 +23,6 @@
 .zag_1 {
     width: 600px;
     height: 45px;        
-    /* background: #024cd4; */
     background: #6610f2;
     color:#f3f5f7;
    
@@ -37,12 +33,23 @@
         background: linear-gradient(270deg, rgb(6, 6, 208) 0%, #3902c3);  
         /* color:aquamarine; */
         color:#f3f5f7;
-        vertical-align: middle;
+        vertical-align: auto;
        
 }
         
+.fi {
     
-
+     color: #e0f408;
+ }
+ 
+ .fiv {
+    
+    color: #4205fa;
+}
+ .fvo {
+    
+    color: #060115;
+}
 
 .text {
     display: inline-block;
